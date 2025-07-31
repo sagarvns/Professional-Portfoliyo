@@ -1,6 +1,9 @@
 # Portfolio of Sagar Chauhan
 
+## 📸 Screenshot
 
+![Screenshot](public/Scr1.png)
+![Screenshot](public/Scr2.png)
  
 This project was created with CRA (Create React App)
 
